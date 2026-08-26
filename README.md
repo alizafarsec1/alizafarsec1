@@ -36,8 +36,8 @@ I focus on transforming raw datasets into clean, structured data pipelines, and 
 
 I am highly motivated to connect with fellow data enthusiasts, cloud engineers, and mentors to accelerate my learning path!
 
-- 🔗 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-- 💻 **GitHub:** [://github.com](https://github.com)
+- 🔗 **LinkedIn:** www.linkedin.com/in/ali-zafar-sec1
+- 💻 **GitHub:**   https://github.com/alizafarsec1
 
 ---
 *Built with commitment to data engineering excellence.*
